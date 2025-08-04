@@ -2,10 +2,6 @@
 
 ###
 
-<h2 align="center">Mit Erfahrung aus der Gastronomie entwickle ich Weblösungen,  <br>die den Alltag in Service, Küche & Personalplanung vereinfachen.</h2>
-
-###
-
 <h4 align="center">🛠️ Bootcamp-Teilnehmer bei der Developer Akademie .</h4>
 
 ###
