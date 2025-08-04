@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="center">🛠️ Bootcamp-Teilnehmer bei der Developer Akademie .</h4>
+<h2 align="center">🛠️ Bootcamp-Teilnehmer bei der Developer Akademie .</h4>
 
 ###
 
@@ -20,7 +20,7 @@
 
 ###
 
-<h4 align="center">Links kommen!</h4>
+<h3 align="center">Links kommen!</h4>
 
 ###
 
