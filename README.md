@@ -29,7 +29,9 @@
   <a href="mailto:micha.kuehn91@gmail.com">
    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
     </a>
+    <a href="[https://www.instagram.com/slm_michael?utm_source=ig_web_button_share_sheet&igsh=aXgzdDN6Y2RtMno=]">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+      </a>
 </div>
 
 ###
