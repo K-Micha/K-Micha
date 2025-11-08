@@ -6,7 +6,7 @@
 
 ###
 
-<p align="center">✨ Ich entwickle mit Leidenschaft – und manchmal auch Bugs.<br>📚 Ich lerne aktuell HTML, CSS und JavaScript .<br>🎯 Ziel: Full-Stack-Entwickler werden & eigene Plattform starten. <br>🎲 Fun Fact: Ich bin nach 22 Uhr produktiver als jede Kaffeemaschine.</p>
+<p align="center">✨ Ich entwickle mit Leidenschaft – und manchmal auch Bugs.<br>📚 Ich lerne aktuell HTML, CSS und JavaScript .<br>🎯 Ziel: Full-Stack-Entwickler werden & eigene Plattform starten. <br>🎲 Fun Fact: Ich bin nach 20 Uhr produktiver als jede Kaffeemaschine.</p>
 
 ###
 
