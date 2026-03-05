@@ -53,10 +53,12 @@ Fork on Github
 ###
 <h3 align="center">🚀 Projects</h3>
 
+<div align="center">
 - **JOIN – Kanban Task Manager**  
   Task management app with login, drag & drop and Firebase  
   🔗 https://k-micha.github.io/join/
 
 - **Pokédex**  
   PokéAPI project with dynamic rendering and search  
-  🔗 https://k-micha.github.io/pokedex/
+  🔗 https://k-micha.github.io/Pokedex/
+  </div>
