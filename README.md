@@ -51,10 +51,10 @@ Fork on Github
 </div>
 
 ###
-<h3 align="center">🚀 Projects</h3>
+<h2 align="center">🚀 Projects</h2>
 
 <div align="center">
- <h4>JOIN</h4> <br> Kanban Task Manager**  
+ <h4>JOIN</h4> <br> Kanban Task Manager
   <p align="center">Task management app with login, drag & drop and Firebase</p>
   🔗 https://k-micha.github.io/join
 
