@@ -58,7 +58,7 @@ Fork on Github
   <p align="center">Task management app with login, drag & drop and Firebase</p>
   🔗 https://k-micha.github.io/join
 
- <h4>Pokédex</h4>h4> 
+ <h4>Pokédex</h4>
   <p align="center">PokéAPI project with dynamic rendering and search</p>
   🔗 https://k-micha.github.io/Pokedex/
   </div>
