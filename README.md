@@ -1,12 +1,26 @@
-<h1 align="center">Hey, Ich bin Michael 👋</h1>
+README.md
+
+Your Readme is Done 🎉🎉🎉
+Star This Project
+Fork on Github
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=default"  />
+</div>
 
 ###
 
-<h2 align="center">🛠️ Bootcamp-Teilnehmer bei der Developer Akademie .</h4>
+<br clear="both">
+
+<h1 align="center">Hey, I'm Michael👋</h1>
 
 ###
 
-<p align="center">✨ Ich entwickle mit Leidenschaft – und manchmal auch Bugs.<br>📚 Ich lerne aktuell HTML, CSS und JavaScript .<br>🎯 Ziel: Full-Stack-Entwickler werden & eigene Plattform starten. <br>🎲 Fun Fact: Ich bin nach 20 Uhr produktiver als jede Kaffeemaschine.</p>
+<h2 align="center">With a background in the hospitality industry, I build web solutions that simplify everyday work in service, kitchen, and staff management.</h2>
+
+###
+
+<p align="center">🚀 Bootcamp participant at Developer Akademie.<br>✨ I build with passion — and sometimes bugs.<br>📚 Currently learning **HTML, CSS and JavaScript** <br>🎯 Goal: Become a **Full-Stack Developer** and build my own platform <br><br>☕ Fun fact: I'm more productive after 22:00 than any coffee machine.</p>
 
 ###
 
@@ -16,11 +30,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
 
 ###
 
-<h3 align="center">Links kommen!</h3>
+<h3 align="center">Connect</h3>
 
 ###
 
@@ -30,9 +48,6 @@
   </a>
   <a href="mailto:michael@a-kuehn.dev">
    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-    </a>
-    <a href="https:///instagram.com/slm_michael">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
     </a>
 </div>
 
